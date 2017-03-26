@@ -1,0 +1,30 @@
+{
+  "name": "expect-mem-user-authentication-data-store",
+  "version": "1.0.0",
+  "description": "Expect Memory User Authentication Data Store",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamcotton/expect-mem-user-authentication-data-store.git"
+  },
+  "keywords": [
+    "expect",
+    "memory",
+    "user",
+    "authentication",
+    "data",
+    "store"
+  ],
+  "author": "William Cotton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamcotton/expect-mem-user-authentication-data-store/issues"
+  },
+  "homepage": "https://github.com/williamcotton/expect-mem-user-authentication-data-store#readme"
+}
